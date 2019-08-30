@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1566375342353.jpg</filename>
+	<path>F:\360data\重要数据\我的文档\Tencent Files\271341794\FileRecv\MobileFile\a(4)\train\1566375342353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ht 10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>295</ymin>
+			<xmax>239</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

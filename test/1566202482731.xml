@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1566202482731.jpg</filename>
+	<path>F:\360data\重要数据\我的文档\Tencent Files\271341794\FileRecv\MobileFile\a(3)\test\1566202482731.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ht 9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>531</xmin>
+			<ymin>231</ymin>
+			<xmax>635</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ht 9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>365</ymin>
+			<xmax>374</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>
