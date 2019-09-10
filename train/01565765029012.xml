@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>01565765029012.jpg</filename>
+	<path>G:\pk\train\01565765029012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fk 10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>137</ymin>
+			<xmax>362</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fk 10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>339</ymin>
+			<xmax>487</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

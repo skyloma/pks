@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>IMG_20190717_112218.jpg</filename>
+	<path>F:\models\research\object_detection\images\a\IMG_20190717_112218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>744</width>
+		<height>992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rmb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>131</ymin>
+			<xmax>600</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+</annotation>
